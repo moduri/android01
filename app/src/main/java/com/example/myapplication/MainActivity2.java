@@ -19,10 +19,10 @@ public class MainActivity2 extends AppCompatActivity {
         binding = ActivityMain2Binding.inflate(getLayoutInflater());
         setContentView(binding.getRoot());
 
-        Glide
-                .with(this)
-                .load("https://beaunex.s3.ap-northeast-2.amazonaws.com/imgs/product/bx150_thumb_rebalancing_0.jpg")
-                .into(binding.imvBnx);
+//        Glide
+//                .with(this)
+//                .load("https://beaunex.s3.ap-northeast-2.amazonaws.com/imgs/product/bx150_thumb_rebalancing_0.jpg")
+//                .into(binding.imvBnx);
 
 //        binding.btn1.setOnClickListener(new View.OnClickListener() {
 //            @Override

@@ -14,6 +14,14 @@
         android:background="@android:color/darker_gray"
         android:orientation="horizontal" />
 
+    <TextView
+        android:id="@+id/test"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="asdasdasdasd"
+        android:textSize="30dp"
+        android:textColor="@android:color/holo_green_dark"/>
+
 
 <!--    <com.google.android.material.appbar.AppBarLayout-->
 <!--        android:id="@+id/appbar"-->
